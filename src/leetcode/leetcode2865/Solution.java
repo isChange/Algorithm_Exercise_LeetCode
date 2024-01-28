@@ -1,9 +1,6 @@
-package leetcode2865;
+package leetcode.leetcode2865;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Locale;
 
 /**
  * @author 刘燚

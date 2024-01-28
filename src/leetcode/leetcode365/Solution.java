@@ -1,4 +1,4 @@
-package leetcode365;
+package leetcode.leetcode365;
 
 /**
  * @author 刘燚
